@@ -1,0 +1,4 @@
+*.DS_Store
+*.vs_config
+**/.idea
+**/__pycache__
