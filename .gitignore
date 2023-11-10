@@ -1,4 +1,7 @@
 *.DS_Store
 *.vs_config
+*.gz
+*.csv
 **/.idea
 **/__pycache__
+**/catboost_info
